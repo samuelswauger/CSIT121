@@ -9,3 +9,11 @@ li {
     font-family: Impact, serif;
     color: coral;
 }
+#heading {
+    color: darkred;
+    text-align: center;
+}
+.highlight {
+    background-color: yellow;
+    font-weight: bold;
+}
