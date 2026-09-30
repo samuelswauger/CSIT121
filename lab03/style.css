@@ -1,0 +1,11 @@
+body {
+    background-color: lightgreen;
+}
+p {
+    font-family: Times, serif;
+    color: red;
+}
+li {
+    font-family: Impact, serif;
+    color: coral;
+}
